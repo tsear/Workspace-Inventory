@@ -1,1 +1,2 @@
 # Workspace-inventory
+As of January 22nd, 2022 Mosaix Productions has undergone a process to build a fully encompassing taxonomical database of equipment, be it camera, camera accessory, lighting, etc... This database will serve as the hub of inventory management, updates & inclusions, losses, & all other data inputs moving forward. Having all data within one resource will best allow us to use an aggregate of information as a tool to better improve our own workflow.
